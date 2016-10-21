@@ -5,6 +5,7 @@ O.*
 bin/
 db/
 dbd/
+builddir/
 html/
 include/
 lib/

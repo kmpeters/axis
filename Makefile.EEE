@@ -1,4 +1,7 @@
 include ${EPICS_ENV_PATH}/module.Makefile
+
+PROJECT=axis
+
 #USR_DEPENDENCIES = asyn,4.27.0
 
 SOURCES += motorApp/ACRSrc/ACRMotorDriver.cpp
